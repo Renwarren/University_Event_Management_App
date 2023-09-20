@@ -1,4 +1,4 @@
-package com.example.university_event_management_app;
+package com.ksu.university_event_management_app.controllers;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

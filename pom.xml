@@ -92,7 +92,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.example.university_event_management_app/com.example.university_event_management_app.HelloApplication
+                                com.example.university_event_management_app/com.ksu.university_event_management_app.HelloApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
